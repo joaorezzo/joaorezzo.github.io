@@ -1,8 +1,7 @@
-# Analista de Dados
+# Analista de Dados / Analista de BI 
 
 ### Formação Acadêmica
-Bacharelado em Ciência de Dados, abr 2023 - 2027 (XP Educação)
+Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (Conclusâo: 2025)
 <br>
-Big Data e Inteligência Analítica, jun 2024 - jun 2026 (Anhembi Morumbi)
 
 ### Projetos
